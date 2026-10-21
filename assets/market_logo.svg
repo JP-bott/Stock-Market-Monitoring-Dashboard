@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Stock Market Monitoring Dashboard logo">
+  <title>Stock Market Monitoring Dashboard logo</title>
+  <rect x="8" y="8" width="240" height="240" rx="44" fill="#0B1220" stroke="#1F2D4A" stroke-width="4"/>
+  <polyline points="44,204 96,176 140,150 208,70" fill="none" stroke="#3B82F6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="208" cy="70" r="11" fill="#3B82F6"/>
+  <g>
+    <rect x="73" y="148" width="6" height="48" fill="#EF4444"/>
+    <rect x="64" y="160" width="24" height="24" rx="4" fill="#EF4444"/>
+    <rect x="125" y="104" width="6" height="72" fill="#22C55E"/>
+    <rect x="116" y="116" width="24" height="48" rx="4" fill="#22C55E"/>
+    <rect x="177" y="60" width="6" height="80" fill="#22C55E"/>
+    <rect x="168" y="72" width="24" height="56" rx="4" fill="#22C55E"/>
+  </g>
+</svg>
